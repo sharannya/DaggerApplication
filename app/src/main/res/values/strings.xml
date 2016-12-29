@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DaggerApplication</string>
+    <string name="hint_username">Enter Username</string>
+    <string name="hint_password">Enter Password</string>
+    <string name="submit">SUBMIT</string>
+    <string name="valid_credentials">Valid Credentials</string>
+    <string name="invalid_credentials">Please enter username and password</string>
+</resources>
